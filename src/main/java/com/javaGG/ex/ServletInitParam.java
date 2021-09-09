@@ -48,7 +48,7 @@ import javax.servlet.http.HttpServletResponse;
 	    writer.println("아이디 : " + id + "</br>");
 	    writer.println("비밀번호 : " + pw + "</br>");
 	    writer.println("path : " + path + "</br>");
-	    writer.println("</body></html>");	      
+	    writer.println("</body></html>");   
 	    writer.close();
 	}
 
